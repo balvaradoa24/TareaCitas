@@ -1,0 +1,15 @@
+/Users/brayanalvarado/Projects/TareaCitas/TareaCitas/bin/Debug/net7.0/TareaCitas
+/Users/brayanalvarado/Projects/TareaCitas/TareaCitas/bin/Debug/net7.0/TareaCitas.deps.json
+/Users/brayanalvarado/Projects/TareaCitas/TareaCitas/bin/Debug/net7.0/TareaCitas.runtimeconfig.json
+/Users/brayanalvarado/Projects/TareaCitas/TareaCitas/bin/Debug/net7.0/TareaCitas.dll
+/Users/brayanalvarado/Projects/TareaCitas/TareaCitas/bin/Debug/net7.0/TareaCitas.pdb
+/Users/brayanalvarado/Projects/TareaCitas/TareaCitas/obj/Debug/net7.0/TareaCitas.csproj.AssemblyReference.cache
+/Users/brayanalvarado/Projects/TareaCitas/TareaCitas/obj/Debug/net7.0/TareaCitas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brayanalvarado/Projects/TareaCitas/TareaCitas/obj/Debug/net7.0/TareaCitas.AssemblyInfoInputs.cache
+/Users/brayanalvarado/Projects/TareaCitas/TareaCitas/obj/Debug/net7.0/TareaCitas.AssemblyInfo.cs
+/Users/brayanalvarado/Projects/TareaCitas/TareaCitas/obj/Debug/net7.0/TareaCitas.csproj.CoreCompileInputs.cache
+/Users/brayanalvarado/Projects/TareaCitas/TareaCitas/obj/Debug/net7.0/TareaCitas.dll
+/Users/brayanalvarado/Projects/TareaCitas/TareaCitas/obj/Debug/net7.0/refint/TareaCitas.dll
+/Users/brayanalvarado/Projects/TareaCitas/TareaCitas/obj/Debug/net7.0/TareaCitas.pdb
+/Users/brayanalvarado/Projects/TareaCitas/TareaCitas/obj/Debug/net7.0/TareaCitas.genruntimeconfig.cache
+/Users/brayanalvarado/Projects/TareaCitas/TareaCitas/obj/Debug/net7.0/ref/TareaCitas.dll
